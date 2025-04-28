@@ -1,0 +1,47 @@
+div {
+    position: relative;
+    background-color: greenyellow;
+    /* top: 5px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px; */
+    inset: 5px;
+}
+
+ul {
+    background-color: darkgreen;
+    /* position: relative; */
+    height: 300px;
+    /* overflow-y: scroll; */
+    /* margin-top: -100px; */
+}
+
+.html {
+    /* position: sticky; */
+    background-color: bisque;
+    /* top: 30px; */
+}
+
+.css {
+    position: absolute;
+    background-color: cadetblue;
+    top: 56px;
+    /* bottom: 5px; */
+    /* left: 5px; */
+    /* right: 5px; */
+}
+
+.js {
+    position: fixed;
+    background-color: darkgoldenrod;
+    top: 10px;
+    /* bottom: 10px; */
+    left: 10px;
+    right: 10px;
+}
+
+header {
+    position: sticky;
+    background-color: dimgray;
+    top: 0px;
+}

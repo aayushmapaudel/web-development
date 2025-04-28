@@ -1,0 +1,59 @@
+li {
+    font-weight: 700;
+}
+/* class selector */
+.html {
+    color: #DD4B25;
+}
+
+.css {
+    color: #254BDD;
+}
+
+.js {
+    color: #EFD81D;
+}
+
+.react {
+    color: #79D8F7;
+}
+
+.tw {
+    color: #36B7F0;
+}
+
+/* id selector */
+#html{
+    font-size: 32px;
+}
+
+/* attribute selector 
+[class] {
+    background-color: green;
+}*/
+
+[aayu] {
+    background-color: white;
+}
+
+/* ul p {
+    background-color: pink; 
+}  for ul and p inside ul*/ 
+
+.web p {
+    background-color: brown;
+}
+
+/* pseudo selector */
+
+h1:hover {
+    color: orange;
+}
+
+[aayu]:hover {
+    color: blue;
+}
+
+.my-aa:hover {
+    color: darkmagenta;
+}

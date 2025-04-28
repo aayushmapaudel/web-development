@@ -1,0 +1,38 @@
+html {
+    width: 400px;
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+    /* width: 600px; */
+    /* height: 400px; */
+    /* font-size: 2em; */
+    
+}
+
+section {
+    background-color: darkgoldenrod;
+    width: 50vw;
+    padding: 10vw;
+    margin: 10vw;
+    border: 1vw solid green;
+    font-size: 2rem;
+    /* width: 400px;
+    padding: 10%; padding and margin values in section come from  body width meanwhile box values comes from section width
+    margin: 10%;
+    font-size: 32px ; if not given its defult is 16px
+    box-sizing: border-box;
+    height: 50%;  height doesnot work in % if not in parent */
+}
+
+.box {
+    background-color: cadetblue;
+    width: 5em;
+    padding: 0.5em;
+    /* margin: 10%; */
+    /* font-size: 100%;  */
+    /* box-sizing: border-box; */
+    font-size: 2rem;
+    
+}

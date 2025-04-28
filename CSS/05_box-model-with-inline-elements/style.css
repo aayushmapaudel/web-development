@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+/* p {
+    background-color: chartreuse;
+    width: 300px;
+    height: 100px;
+    padding: 25px;
+    border: 10px solid hotpink;
+    margin: 25px;
+} */
+.html {
+    display: inline-block;
+    background-color: darkorchid;
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    border: 10px solid yellow;
+    margin: 20px;
+    outline: 10px solid blue;
+}
+
+.lorem {
+    background-color: aquamarine;
+    display: none;
+}
+ 
+img {
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    border: 20px solid deeppink;
+}
+
+iframe {
+    width: 720px;
+    height: 480px;
+    margin: 20px;
+
+}
+
+video {
+    width: 480px;
+}

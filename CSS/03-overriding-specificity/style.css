@@ -1,0 +1,26 @@
+#html.html { 
+    background-color: brown;
+} 
+
+#html {
+    background-color: brown;
+}   
+
+.html {
+    background-color: darkgoldenrod;
+}
+
+li {
+    background-color: aqua !important;
+    color: blue; /*this !important makes all other code not apply*/
+}
+li {
+    background-color: red;
+}
+li {
+    background-color: pink;
+}
+
+.html {
+    background-color: blue;
+} 
